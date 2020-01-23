@@ -1,0 +1,6 @@
+#natural numbers in reverse
+n=int(input("Enter reverse natural numbers"))
+i=0
+while(n<=1):
+  print(i)
+  i+=1

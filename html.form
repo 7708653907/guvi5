@@ -1,0 +1,15 @@
+<!doctype html>
+<form>
+  <input type="text" placeholder="name">
+  <input type="text" placeholder="age">
+  <input type="text" placeholder="emailid">
+  <input type="text" placeholder="password">
+  </form>
+  <select>
+    <option value="abc">abc</option>
+    <option value="ss">ss</option>
+    <option value="cba">cba</option>
+  </select>
+
+    <input type="radio" name="gender" value="male">male</br>
+   <input type="radio" name="gender" value="female">female</br>
